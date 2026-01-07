@@ -43,3 +43,13 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Claude kazal dodac
+build/
+.dart_tool/
+.flutter-plugins
+.packages
+*.iml
+.idea/
+.vscode/
+pubspec.lock
